@@ -3,7 +3,7 @@ spring:
     name: basis-backend
   
   datasource:
-    url: jdbc:postgresql://${DB_HOST:localhost}:${DB_PORT:5432}/${DB_NAME:basis_db}
+    url: jdbc:postgresql://${DB_HOST:localhost}:${DB_PORT:5433}/${DB_NAME:basis_db}
     username: ${DB_USERNAME:basis_user}
     password: ${DB_PASSWORD:basis_password}
     driver-class-name: org.postgresql.Driver

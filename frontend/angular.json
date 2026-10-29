@@ -5,7 +5,8 @@
     "packageManager": "npm",
     "schematicCollections": [
       "angular-eslint"
-    ]
+    ],
+    "analytics": "f31e9b1d-556a-4c56-b401-e585b3a13c90"
   },
   "newProjectRoot": "projects",
   "projects": {
